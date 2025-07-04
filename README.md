@@ -16,5 +16,14 @@ Creating a dashboard for the Revenue Management team of Atliq Grand hotel chain,
 - Excel
 - DAX, Power Query
 
+## 📊 Key KPIs & Metrics
+- Revenue per Available Room (RevPAR)
+- Average Daily Rate (ADR)
+- Occupancy Rate
+- Room Nights Sold (RNS)
+- Direct vs OTA Bookings
+- Booking Trends by Segment
+- Market Segment Analysis
+  
 ## 📸 Screenshots
 https://github.com/shivani123456781/shivani123456781/blob/main/Hospitality.PNG
